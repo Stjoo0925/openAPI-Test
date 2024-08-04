@@ -30,3 +30,6 @@ bin/
 
 ### property ###
 application.properties
+
+### IntelliJ ###
+.idea
